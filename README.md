@@ -1,4 +1,4 @@
-                            ## LiveDocs
+<p align="center"><strong>LiveDocs</strong></p>
 
 ## 🤸 Introduction
 
