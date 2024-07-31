@@ -1,5 +1,7 @@
 <h1 align="center"><strong>LiveDocs</strong></h1>
 
+A collaborative editor project.
+
 ## 🤸 Introduction
 
 LiveDocs is a Google Docs clone I developed using Next.js for the user interface, Liveblocks for real time functionality, and TailwindCSS for styling. This project showcase my skills in building impactfull real-time applications.
