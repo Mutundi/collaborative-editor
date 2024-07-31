@@ -1,4 +1,4 @@
-<p align="center"><span style="font-size: 80px;"><strong>LiveDocs</strong></span></p>
+<h2 align="center"><strong>LiveDocs</strong></h2>
 
 ## 🤸 Introduction
 
